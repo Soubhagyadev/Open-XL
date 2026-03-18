@@ -1,0 +1,1 @@
+const var = 40;
